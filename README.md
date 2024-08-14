@@ -4,7 +4,7 @@
 ## Installation
 ```bash
  npm run install
-  npm run dev
+ npm run dev
 ```
     
 
