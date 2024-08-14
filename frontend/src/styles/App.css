@@ -1,0 +1,17 @@
+body {
+	background-color: #f7f7f7;
+	font-family: 'Roboto', sans-serif;
+	color: green;
+}
+
+.container {
+	margin-top: 50px;
+}
+
+.recipe-item {
+	transition: transform 0.2s ease-in-out;
+}
+
+.recipe-item:hover {
+	transform: translateY(-5px);
+}
